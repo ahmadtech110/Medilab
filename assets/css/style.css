@@ -178,5 +178,27 @@
 }
 .gal-img img{
     margin: 3px;
+    
+}
+.hovr{
+    overflow: hidden;
+}
+.hovr:hover img {
+    transform: scale(1.1);
+    transition: all .3s ease;
+    cursor: pointer;
+    
+}
+
+.ico-color i{
+    color: #ffbb00;
+    font-size: 18px;
+    font-weight: bold;
+}
+.i-colr {
+    color: rgba(158, 158, 242, 0.869);
+    font-size: 28px;
+    font-weight: bold;
+
 }
 
