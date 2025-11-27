@@ -196,9 +196,16 @@
     font-weight: bold;
 }
 .i-colr {
-    color: rgba(158, 158, 242, 0.869);
-    font-size: 28px;
+    color: white;
+    font-size: 22px;
     font-weight: bold;
+    background-color: var(--blue-color);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
 
 }
 
