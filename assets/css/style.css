@@ -165,3 +165,18 @@
     color: white;
 }
 
+.test-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+
+}
+.gal-img{
+    width: 250px;
+    height: 250px;
+
+}
+.gal-img img{
+    margin: 3px;
+}
+
